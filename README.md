@@ -33,7 +33,7 @@ npm run test:coverage
 For e.g. 10 days:
 
 ```
-node test/texttest_fixture.js 10
+node test/*.test.js
 ```
 
 You should make sure the command shown above works when you execute it in a terminal before trying to use TextTest (see below).
